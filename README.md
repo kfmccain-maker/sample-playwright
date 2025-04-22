@@ -1,6 +1,6 @@
-# 🎭 Playwright Framework
+# 🎭 Playwright Framework (JavaScript Version)
 
-This project is a simple Playwright framework that navigates to the Google homepage. It includes a test suite that demonstrates how to use Playwright for browser automation.
+This project is a simple Playwright framework that navigates to the Google homepage. It includes a test suite that demonstrates how to use Playwright for browser automation using **JavaScript**.
 
 ## ⚙️ Setup Instructions
 
@@ -20,7 +20,7 @@ This project is a simple Playwright framework that navigates to the Google homep
 
 2. **Install dependencies:**
 
-   For both Mac and Windows, run the following command in the terminal:
+   Run the following command in the terminal:
 
    ```bash
    npm install
@@ -33,6 +33,10 @@ To run the tests, use the following command:
 ```bash
 npx playwright test
 ```
+
+### 🔄 Converting to JavaScript
+
+This project has been converted to JavaScript. All `.ts` files have been renamed to `.js`, and TypeScript-specific features have been removed.
 
 ### ℹ️ Additional Information
 
