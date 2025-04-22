@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@playwright/test": "^1.52.0",
+    "allure-playwright": "^3.2.1"
+  }
+}

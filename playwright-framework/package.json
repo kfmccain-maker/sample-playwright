@@ -1,0 +1,19 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "A Playwright framework project to navigate to Google.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "playwright": "^1.20.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "@types/node": "^16.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
